@@ -1,4 +1,5 @@
 # app-dev
+My first repository.
 # My Favorite Series: *Alice in borderland*
 
 **Alice in borderland** is a show about life and death, you need to fight for yourself in order to survive.
